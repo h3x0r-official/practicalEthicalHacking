@@ -8,7 +8,7 @@ Used to change permissions of user, group and others.
 	Operation		   Permuission
 	+ (add)			r (read)
 	- (remove)		w (write)
-	+ or -            x (execute)
+	+ or -                  x (execute)
 
 ## chmod numbers:
 
