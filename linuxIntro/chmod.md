@@ -12,7 +12,7 @@ Used to change permissions of user, group and others.
 
 ## chmod numbers:
 
-	Number 	Permissions		       Totals
+	Number 	                      Permissions		               Totals
 	0				---					0+0+0
 	1				--x					0+0+1
 	2				-w-					0+2+0
