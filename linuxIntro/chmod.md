@@ -5,7 +5,7 @@ Used to change permissions of user, group and others.
 
 ## chmod letters:
 
-	Operation		   Permuission
+	Operation		Permissions
 	+ (add)			r (read)
 	- (remove)		w (write)
 	+ or -                  x (execute)
