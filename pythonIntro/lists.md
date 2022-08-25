@@ -76,3 +76,25 @@ print(movies[1:])
 ```
 
 #### More with Methods
+Differnt methods can be used to add mor functionailty to lists.
+
+##### .append()
+Append can be used to add more data in lists.
+
+###### Example:
+In this code, we are pushing "Troy" in movies list.
+
+```
+movies.append("Troy")
+```
+
+##### .pop()
+Pop is used to delete very last item from list data structure.
+
+###### Example:
+It removes very last item from `movies` list.
+
+```
+movies.pop() 
+```
+
