@@ -98,3 +98,4 @@ It removes very last item from `movies` list.
 movies.pop() 
 ```
 
+> For more info refer to lists.py.
