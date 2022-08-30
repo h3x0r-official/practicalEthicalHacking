@@ -28,6 +28,10 @@ Your contribution to topics is always welcome and will be much appreciated.
 4. **Module 4**
 - [Introduction to Linux](https://github.com/id-rsa/practicalEthicalHacking/tree/main/linuxIntro)
 
+  - [Common Networking Commands](https://github.com/id-rsa/practicalEthicalHacking/blob/main/linuxIntro/commonNetworkingCommands.md)
+  - [Viewing, Creating and Editing Files](https://github.com/id-rsa/practicalEthicalHacking/blob/main/linuxIntro/viewingCreatingAndEditingFiles.md)
+  - [Installing and Updating Tools](https://github.com/id-rsa/practicalEthicalHacking/blob/main/linuxIntro/installingAndUpdatingTools.md)
+
 5. **Module 5**
 - [Introduction to Python](https://github.com/id-rsa/practicalEthicalHacking/tree/main/pythonIntro)
 
