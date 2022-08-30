@@ -37,5 +37,3 @@ Your contribution to topics is always welcome and will be much appreciated.
 
 6. **Module 6**
 - [Information Gathering (recon)](https://github.com/id-rsa/practicalEthicalHacking/tree/main/informationGathering(recon))
-  - Test
-  - Test2
