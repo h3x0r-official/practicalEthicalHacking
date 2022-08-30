@@ -26,3 +26,5 @@ s.connect((HOST, PORT))
 ## Listening
 I started a listener on port 4444 and run the script.
 And successfuly got connection.
+
+> refer to s.py for codes.
