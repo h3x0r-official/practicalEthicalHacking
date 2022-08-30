@@ -23,7 +23,7 @@ Your contribution to topics is always welcome and will be much appreciated.
   - [MAC Addresses](https://github.com/id-rsa/practicalEthicalHacking/blob/main/refreshNetworking/macAddresses.md)
   - [TCP, UDP and 3-Way Handshake](https://github.com/id-rsa/practicalEthicalHacking/blob/main/refreshNetworking/tcpUdpAndHandshake.md)
   - [Common Ports and Protocols](https://github.com/id-rsa/practicalEthicalHacking/blob/main/refreshNetworking/commonPortsAndProtocols.md)
-  - 
+  - [OSI Model](https://github.com/id-rsa/practicalEthicalHacking/blob/main/refreshNetworking/osiModel.md)
 
 4. **Module 4**
 - [Introduction to Linux](https://github.com/id-rsa/practicalEthicalHacking/tree/main/linuxIntro)
