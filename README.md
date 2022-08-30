@@ -18,6 +18,13 @@ Your contribution to topics is always welcome and will be much appreciated.
 3. **Module 3**
 - [Networking Refresher](https://github.com/id-rsa/practicalEthicalHacking/tree/main/refreshNetworking)
 
+  - [Introduction](https://github.com/id-rsa/practicalEthicalHacking/blob/main/refreshNetworking/intro.md)
+  - [IP Addresses](https://github.com/id-rsa/practicalEthicalHacking/blob/main/refreshNetworking/ipAddresses.md)
+  - [MAC Addresses](https://github.com/id-rsa/practicalEthicalHacking/blob/main/refreshNetworking/macAddresses.md)
+  - [TCP, UDP and 3-Way Handshake](https://github.com/id-rsa/practicalEthicalHacking/blob/main/refreshNetworking/tcpUdpAndHandshake.md)
+  - [Common Ports and Protocols](https://github.com/id-rsa/practicalEthicalHacking/blob/main/refreshNetworking/commonPortsAndProtocols.md)
+  - 
+
 4. **Module 4**
 - [Introduction to Linux](https://github.com/id-rsa/practicalEthicalHacking/tree/main/linuxIntro)
 
