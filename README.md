@@ -19,3 +19,6 @@ Your contribution to topics is always welcome and will be much appreciated.
 
 5. **Module 5**
 - [Introduction to Python](https://github.com/id-rsa/practicalEthicalHacking/tree/main/pythonIntro)
+
+6. **Module 6**
+- [Information Gathering (recon)](https://github.com/id-rsa/practicalEthicalHacking/tree/main/informationGathering(recon))
