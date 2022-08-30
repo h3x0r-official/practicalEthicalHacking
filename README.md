@@ -8,8 +8,12 @@ Your contribution to topics is always welcome and will be much appreciated.
 1. **Module 1**
 - [Introduction](https://github.com/id-rsa/practicalEthicalHacking/tree/main/intro)
 
+  - [Skills To Have](https://github.com/id-rsa/practicalEthicalHacking/blob/main/intro/skillsToHave.md)
+
 2. **Module 2**
 - [Notekeeping](https://github.com/id-rsa/practicalEthicalHacking/tree/main/noteTaking)
+  
+  - [Apps](https://github.com/id-rsa/practicalEthicalHacking/blob/main/noteTaking/apps.md)
 
 3. **Module 3**
 - [Networking Refresher](https://github.com/id-rsa/practicalEthicalHacking/tree/main/refreshNetworking)
@@ -22,3 +26,5 @@ Your contribution to topics is always welcome and will be much appreciated.
 
 6. **Module 6**
 - [Information Gathering (recon)](https://github.com/id-rsa/practicalEthicalHacking/tree/main/informationGathering(recon))
+  - Test
+  - Test2
