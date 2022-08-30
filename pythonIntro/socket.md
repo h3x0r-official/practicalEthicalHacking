@@ -1,6 +1,6 @@
 # Sockets
 Python provides two levels of access to network services. At a low level, you can access the basic socket support in the underlying operating system, which allows you to implement clients and servers for both connection-oriented and connectionless protocols.
-[Source]([Python - Sockets Programming (tutorialspoint.com)](https://www.tutorialspoint.com/python_network_programming/python_sockets_programming.htm#))
+[Source](https://www.tutorialspoint.com/python_network_programming/python_sockets_programming.htm#)
 
 > Do not name its python script file 'socket'. 
 
