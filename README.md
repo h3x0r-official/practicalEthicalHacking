@@ -39,4 +39,4 @@ Your contribution to topics is always welcome and will be much appreciated.
 - [Information Gathering (recon)](https://github.com/id-rsa/practicalEthicalHacking/tree/main/informationGathering(recon))
 
 7. **Module 7**
-- [Active Directory (Lab Build Up)](https://github.com/id-rsa/practicalEthicalHacking/tree/main/)
+- [Active Directory (Lab Build Up)](https://github.com/h3x0r-official/practicalEthicalHacking/tree/main/activeDirectory)
